@@ -11,5 +11,5 @@ COPY ./inputs/* /app/
 # Set the working directory to /app
 WORKDIR /app
 
-CMD ["/bin/echo","Ahmet"]
+CMD ["/bin/echo","Arda"]
 #ENTRYPOINT ["/bin/echo", "Hello", "Arda"]
